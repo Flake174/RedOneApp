@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RedOneApp</string>
+    <string name="submit">Submit</string>
+    <string name="enter_usd_value">Enter USD value</string>
+    <string name="get_list">Get List</string>
+    <string name="click_to_get_the_list_of_usd_quotes">Click to get the list of USD quotes</string>
+    <string name="usd_quotes_list">USD Quotes List</string>
+    <string name="the_current_dollar_rate_is_higher_than_the_value_set_in_the_application">The current dollar rate is
+        higher than the value set in the application!
+    </string>
+</resources>
